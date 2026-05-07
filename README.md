@@ -2,7 +2,9 @@
 
 ## 📊 Project Overview
 
-    This project consists of an interactive dual-dashboard system designed to monitor retail performance. It tracks $32.87M in Net Revenue across various product categories, regions, and timeframes, providing a granular look at profitability and consumer behavior.
+    This project consists of an interactive dual-dashboard system designed to monitor retail performance.
+    It tracks $32.87M in Net Revenue across various product categories, regions, and timeframes, providing 
+    a granular look at profitability and consumer behavior.
 
 ## 🚀 Key Metrics (KPIs)
     Net Revenue: $32.87M
